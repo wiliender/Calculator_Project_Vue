@@ -1,12 +1,17 @@
 <template>
     <div id="app">
-        <h1> hello world! </h1>
+        <h1> Calculator </h1>
+        <Calculator />
     </div>
 </template>
 
 <script>
-export default {
+import Calculator from "./main/Calculator";
 
+export default {
+    components: {
+        Calculator
+    }
 }
 </script>
 
