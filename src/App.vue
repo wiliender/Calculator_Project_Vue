@@ -13,6 +13,7 @@ export default {
         Calculator
     }
 }
+
 </script>
 
 <style>
@@ -40,6 +41,5 @@ body {
     color: #fff;
     background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));
 }
-
 
 </style>
